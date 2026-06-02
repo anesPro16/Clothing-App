@@ -1,0 +1,4 @@
+Shirt|1|baju ubah|10.0|l
+Trousers|2|celana|15.0|merah
+Shirt|3|kemeja|30.0|xl
+Trousers|4|jeans|20.0|blue
